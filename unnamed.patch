@@ -1,0 +1,22 @@
+Index: src/main/java/com/ym/Hello.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- src/main/java/com/ym/Hello.java	(date 1590553441887)
++++ src/main/java/com/ym/Hello.java	(date 1590553441887)
+@@ -0,0 +1,14 @@
++package com.ym;
++
++/**
++ * @ClassName Hello
++ * @Description: TODO
++ * @Author YanM
++ * @Date 2020/5/27
++ * @Version V1.0
++ */
++public class Hello {
++    public static void main(String[] args) {
++        System.out.println("nihao");
++    }
++}
